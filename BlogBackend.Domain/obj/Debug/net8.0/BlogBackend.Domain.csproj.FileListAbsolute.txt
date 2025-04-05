@@ -1,0 +1,4 @@
+C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Domain\obj\Debug\net8.0\BlogBackend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Domain\obj\Debug\net8.0\BlogBackend.Domain.AssemblyInfoInputs.cache
+C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Domain\obj\Debug\net8.0\BlogBackend.Domain.AssemblyInfo.cs
+C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Domain\obj\Debug\net8.0\BlogBackend.Domain.csproj.CoreCompileInputs.cache

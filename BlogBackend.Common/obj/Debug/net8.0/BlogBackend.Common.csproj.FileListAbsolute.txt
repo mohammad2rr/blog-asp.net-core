@@ -1,0 +1,11 @@
+C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Common\bin\Debug\net8.0\BlogBackend.Common.deps.json
+C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Common\bin\Debug\net8.0\BlogBackend.Common.dll
+C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Common\bin\Debug\net8.0\BlogBackend.Common.pdb
+C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Common\obj\Debug\net8.0\BlogBackend.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Common\obj\Debug\net8.0\BlogBackend.Common.AssemblyInfoInputs.cache
+C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Common\obj\Debug\net8.0\BlogBackend.Common.AssemblyInfo.cs
+C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Common\obj\Debug\net8.0\BlogBackend.Common.csproj.CoreCompileInputs.cache
+C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Common\obj\Debug\net8.0\BlogBackend.Common.dll
+C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Common\obj\Debug\net8.0\refint\BlogBackend.Common.dll
+C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Common\obj\Debug\net8.0\BlogBackend.Common.pdb
+C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Common\obj\Debug\net8.0\ref\BlogBackend.Common.dll

@@ -1,0 +1,5 @@
+C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Persistence\obj\Debug\net8.0\BlogBackend.Persistence.csproj.AssemblyReference.cache
+C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Persistence\obj\Debug\net8.0\BlogBackend.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Persistence\obj\Debug\net8.0\BlogBackend.Persistence.AssemblyInfoInputs.cache
+C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Persistence\obj\Debug\net8.0\BlogBackend.Persistence.AssemblyInfo.cs
+C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Persistence\obj\Debug\net8.0\BlogBackend.Persistence.csproj.CoreCompileInputs.cache

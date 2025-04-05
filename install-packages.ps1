@@ -1,0 +1,3 @@
+dotnet add BlogBackend.Persistence/BlogBackend.Persistence.csproj package Microsoft.EntityFrameworkCore
+dotnet add BlogBackend.Persistence/BlogBackend.Persistence.csproj package Microsoft.EntityFrameworkCore.SqlServer
+dotnet add BlogBackend.Persistence/BlogBackend.Persistence.csproj package Microsoft.EntityFrameworkCore.Design 

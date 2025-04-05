@@ -1,0 +1,11 @@
+C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Infrastructure\bin\Debug\net8.0\BlogBackend.Infrastructure.deps.json
+C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Infrastructure\bin\Debug\net8.0\BlogBackend.Infrastructure.dll
+C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Infrastructure\bin\Debug\net8.0\BlogBackend.Infrastructure.pdb
+C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Infrastructure\obj\Debug\net8.0\BlogBackend.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Infrastructure\obj\Debug\net8.0\BlogBackend.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Infrastructure\obj\Debug\net8.0\BlogBackend.Infrastructure.AssemblyInfo.cs
+C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Infrastructure\obj\Debug\net8.0\BlogBackend.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Infrastructure\obj\Debug\net8.0\BlogBackend.Infrastructure.dll
+C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Infrastructure\obj\Debug\net8.0\refint\BlogBackend.Infrastructure.dll
+C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Infrastructure\obj\Debug\net8.0\BlogBackend.Infrastructure.pdb
+C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Infrastructure\obj\Debug\net8.0\ref\BlogBackend.Infrastructure.dll
