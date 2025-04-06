@@ -31,3 +31,11 @@ C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Api\obj\Debug\net8.0\refint\
 C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Api\obj\Debug\net8.0\BlogBackend.Api.pdb
 C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Api\obj\Debug\net8.0\BlogBackend.Api.genruntimeconfig.cache
 C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Api\obj\Debug\net8.0\ref\BlogBackend.Api.dll
+E:\projects\blog-asp.net-core\BlogBackend.Api\obj\Debug\net8.0\BlogBackend.Api.csproj.AssemblyReference.cache
+E:\projects\blog-asp.net-core\BlogBackend.Api\obj\Debug\net8.0\BlogBackend.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\blog-asp.net-core\BlogBackend.Api\obj\Debug\net8.0\BlogBackend.Api.AssemblyInfoInputs.cache
+E:\projects\blog-asp.net-core\BlogBackend.Api\obj\Debug\net8.0\BlogBackend.Api.AssemblyInfo.cs
+E:\projects\blog-asp.net-core\BlogBackend.Api\obj\Debug\net8.0\BlogBackend.Api.csproj.CoreCompileInputs.cache
+E:\projects\blog-asp.net-core\BlogBackend.Api\obj\Debug\net8.0\BlogBackend.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\projects\blog-asp.net-core\BlogBackend.Api\obj\Debug\net8.0\BlogBackend.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\projects\blog-asp.net-core\BlogBackend.Api\obj\Debug\net8.0\BlogBackend.Api.sourcelink.json

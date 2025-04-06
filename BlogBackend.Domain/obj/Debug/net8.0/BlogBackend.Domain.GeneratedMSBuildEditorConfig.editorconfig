@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlogBackend.Domain
-build_property.ProjectDir = C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Domain\
+build_property.ProjectDir = E:\projects\blog-asp.net-core\BlogBackend.Domain\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

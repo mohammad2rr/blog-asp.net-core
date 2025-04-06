@@ -2,3 +2,9 @@ C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Domain\obj\Debug\net8.0\Blog
 C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Domain\obj\Debug\net8.0\BlogBackend.Domain.AssemblyInfoInputs.cache
 C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Domain\obj\Debug\net8.0\BlogBackend.Domain.AssemblyInfo.cs
 C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Domain\obj\Debug\net8.0\BlogBackend.Domain.csproj.CoreCompileInputs.cache
+E:\projects\blog-asp.net-core\BlogBackend.Domain\obj\Debug\net8.0\BlogBackend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\blog-asp.net-core\BlogBackend.Domain\obj\Debug\net8.0\BlogBackend.Domain.AssemblyInfoInputs.cache
+E:\projects\blog-asp.net-core\BlogBackend.Domain\obj\Debug\net8.0\BlogBackend.Domain.AssemblyInfo.cs
+E:\projects\blog-asp.net-core\BlogBackend.Domain\obj\Debug\net8.0\BlogBackend.Domain.csproj.CoreCompileInputs.cache
+E:\projects\blog-asp.net-core\BlogBackend.Domain\obj\Debug\net8.0\BlogBackend.Domain.sourcelink.json
+E:\projects\blog-asp.net-core\BlogBackend.Domain\obj\Debug\net8.0\BlogBackend.Domain.csproj.AssemblyReference.cache

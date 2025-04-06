@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\m-ghalavand\\Desktop\\asp-cursor\\BlogBackend.Infrastructure\\BlogBackend.Infrastructure.csproj": {}
+    "E:\\projects\\blog-asp.net-core\\BlogBackend.Infrastructure\\BlogBackend.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\m-ghalavand\\Desktop\\asp-cursor\\BlogBackend.Infrastructure\\BlogBackend.Infrastructure.csproj": {
+    "E:\\projects\\blog-asp.net-core\\BlogBackend.Infrastructure\\BlogBackend.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\m-ghalavand\\Desktop\\asp-cursor\\BlogBackend.Infrastructure\\BlogBackend.Infrastructure.csproj",
+        "projectUniqueName": "E:\\projects\\blog-asp.net-core\\BlogBackend.Infrastructure\\BlogBackend.Infrastructure.csproj",
         "projectName": "BlogBackend.Infrastructure",
-        "projectPath": "C:\\Users\\m-ghalavand\\Desktop\\asp-cursor\\BlogBackend.Infrastructure\\BlogBackend.Infrastructure.csproj",
+        "projectPath": "E:\\projects\\blog-asp.net-core\\BlogBackend.Infrastructure\\BlogBackend.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\m-ghalavand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\m-ghalavand\\Desktop\\asp-cursor\\BlogBackend.Infrastructure\\obj\\",
+        "outputPath": "E:\\projects\\blog-asp.net-core\\BlogBackend.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

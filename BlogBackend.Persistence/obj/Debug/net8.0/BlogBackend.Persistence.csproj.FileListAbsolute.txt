@@ -3,3 +3,9 @@ C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Persistence\obj\Debug\net8.0
 C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Persistence\obj\Debug\net8.0\BlogBackend.Persistence.AssemblyInfoInputs.cache
 C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Persistence\obj\Debug\net8.0\BlogBackend.Persistence.AssemblyInfo.cs
 C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Persistence\obj\Debug\net8.0\BlogBackend.Persistence.csproj.CoreCompileInputs.cache
+E:\projects\blog-asp.net-core\BlogBackend.Persistence\obj\Debug\net8.0\BlogBackend.Persistence.csproj.AssemblyReference.cache
+E:\projects\blog-asp.net-core\BlogBackend.Persistence\obj\Debug\net8.0\BlogBackend.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\blog-asp.net-core\BlogBackend.Persistence\obj\Debug\net8.0\BlogBackend.Persistence.AssemblyInfoInputs.cache
+E:\projects\blog-asp.net-core\BlogBackend.Persistence\obj\Debug\net8.0\BlogBackend.Persistence.AssemblyInfo.cs
+E:\projects\blog-asp.net-core\BlogBackend.Persistence\obj\Debug\net8.0\BlogBackend.Persistence.csproj.CoreCompileInputs.cache
+E:\projects\blog-asp.net-core\BlogBackend.Persistence\obj\Debug\net8.0\BlogBackend.Persistence.sourcelink.json

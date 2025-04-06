@@ -1,4 +1,5 @@
 using System;
+using BlogBackend.Domain.Enums;
 
 namespace BlogBackend.Domain.Entities
 {

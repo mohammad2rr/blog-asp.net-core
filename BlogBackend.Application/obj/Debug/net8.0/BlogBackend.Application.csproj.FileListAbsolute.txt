@@ -3,3 +3,9 @@ C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Application\obj\Debug\net8.0
 C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Application\obj\Debug\net8.0\BlogBackend.Application.AssemblyInfoInputs.cache
 C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Application\obj\Debug\net8.0\BlogBackend.Application.AssemblyInfo.cs
 C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Application\obj\Debug\net8.0\BlogBackend.Application.csproj.CoreCompileInputs.cache
+E:\projects\blog-asp.net-core\BlogBackend.Application\obj\Debug\net8.0\BlogBackend.Application.csproj.AssemblyReference.cache
+E:\projects\blog-asp.net-core\BlogBackend.Application\obj\Debug\net8.0\BlogBackend.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\blog-asp.net-core\BlogBackend.Application\obj\Debug\net8.0\BlogBackend.Application.AssemblyInfoInputs.cache
+E:\projects\blog-asp.net-core\BlogBackend.Application\obj\Debug\net8.0\BlogBackend.Application.AssemblyInfo.cs
+E:\projects\blog-asp.net-core\BlogBackend.Application\obj\Debug\net8.0\BlogBackend.Application.csproj.CoreCompileInputs.cache
+E:\projects\blog-asp.net-core\BlogBackend.Application\obj\Debug\net8.0\BlogBackend.Application.sourcelink.json

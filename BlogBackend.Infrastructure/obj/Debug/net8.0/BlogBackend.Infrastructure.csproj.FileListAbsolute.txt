@@ -9,3 +9,16 @@ C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Infrastructure\obj\Debug\net
 C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Infrastructure\obj\Debug\net8.0\refint\BlogBackend.Infrastructure.dll
 C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Infrastructure\obj\Debug\net8.0\BlogBackend.Infrastructure.pdb
 C:\Users\m-ghalavand\Desktop\asp-cursor\BlogBackend.Infrastructure\obj\Debug\net8.0\ref\BlogBackend.Infrastructure.dll
+E:\projects\blog-asp.net-core\BlogBackend.Infrastructure\bin\Debug\net8.0\BlogBackend.Infrastructure.deps.json
+E:\projects\blog-asp.net-core\BlogBackend.Infrastructure\bin\Debug\net8.0\BlogBackend.Infrastructure.dll
+E:\projects\blog-asp.net-core\BlogBackend.Infrastructure\bin\Debug\net8.0\BlogBackend.Infrastructure.pdb
+E:\projects\blog-asp.net-core\BlogBackend.Infrastructure\obj\Debug\net8.0\BlogBackend.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\blog-asp.net-core\BlogBackend.Infrastructure\obj\Debug\net8.0\BlogBackend.Infrastructure.AssemblyInfoInputs.cache
+E:\projects\blog-asp.net-core\BlogBackend.Infrastructure\obj\Debug\net8.0\BlogBackend.Infrastructure.AssemblyInfo.cs
+E:\projects\blog-asp.net-core\BlogBackend.Infrastructure\obj\Debug\net8.0\BlogBackend.Infrastructure.csproj.CoreCompileInputs.cache
+E:\projects\blog-asp.net-core\BlogBackend.Infrastructure\obj\Debug\net8.0\BlogBackend.Infrastructure.sourcelink.json
+E:\projects\blog-asp.net-core\BlogBackend.Infrastructure\obj\Debug\net8.0\BlogBackend.Infrastructure.dll
+E:\projects\blog-asp.net-core\BlogBackend.Infrastructure\obj\Debug\net8.0\refint\BlogBackend.Infrastructure.dll
+E:\projects\blog-asp.net-core\BlogBackend.Infrastructure\obj\Debug\net8.0\BlogBackend.Infrastructure.pdb
+E:\projects\blog-asp.net-core\BlogBackend.Infrastructure\obj\Debug\net8.0\ref\BlogBackend.Infrastructure.dll
+E:\projects\blog-asp.net-core\BlogBackend.Infrastructure\obj\Debug\net8.0\BlogBackend.Infrastructure.csproj.AssemblyReference.cache

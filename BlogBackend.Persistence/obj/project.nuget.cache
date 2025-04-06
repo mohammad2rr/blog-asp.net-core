@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YFitxaRM6JPDcjK/VEoIXcVx23ihlgT2jq4rHhfieHeV/N3lW+rajwZPcq80kF/3PkZXqKuwk+EwOFEdTjgD/A==",
+  "dgSpecHash": "kMSQTJCYkEUNvrzz3yp0yUGe+2zq9tNo3dXT1EXLRlnmCuNFBK82xzB3MxpInfBw0cWioH+Jj9uAXBgw9km3zQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\m-ghalavand\\Desktop\\asp-cursor\\BlogBackend.Persistence\\BlogBackend.Persistence.csproj",
+  "projectFilePath": "E:\\projects\\blog-asp.net-core\\BlogBackend.Persistence\\BlogBackend.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\m-ghalavand\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\m-ghalavand\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

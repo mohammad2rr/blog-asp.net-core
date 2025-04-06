@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using BlogBackend.Domain.Entities;
+using BlogBackend.Domain.Enums;
 
 namespace BlogBackend.Domain.Interfaces
 {
